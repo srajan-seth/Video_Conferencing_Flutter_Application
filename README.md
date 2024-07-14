@@ -1,17 +1,17 @@
-# video_conferencing_application
+# Video Conferencing Application
 
-A new Flutter project.
+A video conferencing app developed using Flutter and Firebase, offering seamless real-time communication with secure user authentication and data management.
 
-## Getting Started
+## Description about project
 
-This project is a starting point for a Flutter application.
+- Developed using Flutter, this app has all the video conferencing application functionality with seamless video calls,
+including joining a meeting, creating a meeting, and all other features like chatting, muting etc.
 
-A few resources to get you started if this is your first Flutter project:
+- Utilizes Firebase for user authentication, ensuring secure access to meetings. Firebase manages real-time updates
+and messaging during calls, enhancing user engagement.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Provides features for seamless joining via unique meeting IDs or links. Ensures smooth performance and reliability
+using Flutter's reactive framework and Firebase's scalable infrastructure. Also provide the records of previous joined
+meetings as well.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Video_Conferencing_Flutter_Application
+Thanks!
